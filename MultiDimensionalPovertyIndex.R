@@ -326,3 +326,6 @@ df.droppedcolumns[index.disab, "disab"] <- pred
 
 df.droppedcolumns %>% dplyr::select(disab) %>% unique
 df.droppedcolumns %>% dplyr::select(disab)
+
+
+################################
